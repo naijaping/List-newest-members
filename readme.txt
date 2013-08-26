@@ -21,7 +21,7 @@ upload.
 == Frequently Asked Questions ==
 
 Question:
-None at the moment
+Ask me any
 
 == Notes ==
 
