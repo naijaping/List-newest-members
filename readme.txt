@@ -2,7 +2,7 @@
 
 Contributor: @naijaping
 Tags: buddypress, newest members widget
-Requires at least: WordPress 3.2.1 BuddyPress 1.5.1
+Requires at least: WordPress 2.9 BuddyPress 1.2
 Tested up to: WordPress 3.6  BuddyPress 1.8 
 License: GNU/GPL 2
 Stable tag: 1.0
