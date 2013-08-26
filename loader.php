@@ -2,7 +2,7 @@
 /*
 Plugin Name: BP List Newest members
 Plugin URI: http://www.naijaping.com
-Description: Show at least the list of 5 newest members in the widget area
+Description: Show the list of  newest members in the widget area max 5
 Version: 1.0
 Requires at least: WordPress 2.9 / BuddyPress 1.2
 Tested up to: WordPress 3.6  / BuddyPress 1.8 
