@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: BP List Newest members
-Plugin URI: http://www.naijaping.com
+Plugin URI: http://cityflavourmagazine.com
 Description: Show the list of  newest members in the widget area max 5
 Version: 1.0
 Requires at least: WordPress 2.9 / BuddyPress 1.2
