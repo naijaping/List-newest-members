@@ -1,4 +1,10 @@
 List-newest-members
 ===================
 
-List Buddypress Newest Members
+List Buddypress Newest Members in the widget
+
+
+
+== READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
+Although this plugin is working as it should, but use at your own risk, 
+I can not be held responsible for any damage caused to your site.
