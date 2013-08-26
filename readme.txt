@@ -9,7 +9,7 @@ Stable tag: 1.0
 
 == READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
 Although this plugin is working as it should, but use at your own risk, 
-I can not be held responsible for any damage caused to your sit.
+I can not be held responsible for any damage caused to your site.
 
 == Description ==
 
