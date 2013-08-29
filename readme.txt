@@ -13,7 +13,7 @@ I can not be held responsible for any damage caused to your site.
 
 == Description ==
 
-This is a very lightweight plugin that list at lesat 5 newest members in the widget
+This is a very lightweight Buddypress plugin that list maximum 5 newest members in the widget area
 
 == Installation ==
 
