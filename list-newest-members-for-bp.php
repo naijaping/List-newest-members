@@ -51,12 +51,10 @@ if ( !function_exists( 'bp_core_install' ) ) {
 <?php
 	}
 
-/*******************************************************************/
+/*********************************END***************************************/
 
 
 
-
-
-/*** Register these little widgets :) ***/
+/************** To register the widget *************/
 register_sidebar_widget('Recent Member','bp_list_newest_member_widget');
 ?>
