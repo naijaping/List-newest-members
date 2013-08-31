@@ -25,7 +25,7 @@ This is a very lightweight Buddypress plugin that list maximum 5 newest members 
 
 
 == Screenshots ==
-
+![Alt text](/path/to/img.jpg "Optional title")
 
 == Frequently Asked Questions ==
 Is this Plugin working?
