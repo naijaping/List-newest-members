@@ -12,7 +12,7 @@ Author:Prince Abiola Ogundipe
 */
 
 function omo_my_list_newest_members_init() {
-	require( dirname( __FILE__ ) . '/bp-list-newest-members.php' );
+	require( dirname( __FILE__ ) . '/list-newest-members-for-bp.php' );
 }
 add_action( 'bp_include', 'omo_my_list_newest_members_init' );
 ?>
