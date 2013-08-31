@@ -36,12 +36,12 @@ Ans: Yes it is.......
 
 Any suggestions are welcome
 
+= 1.5 =
+.Updated to allow the use of the widget in many sidebars ( Multiple Use )
+.You can now set the total numbers of the newest members to show 
+.Code clean up and small bug fix
 
-Tested with WP 3.6 and BP 1.8
+
 
 = 1.0 =
-
-* Initial Release
-
-== Other ==
- 
+* Initial Release Of The Plugin
