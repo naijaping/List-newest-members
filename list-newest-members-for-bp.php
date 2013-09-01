@@ -11,10 +11,6 @@ if ( !function_exists( 'bp_core_install' ) ) {
 }
 /***************************** Start **************************************/
 
-
-/*** Bp list newest members***/
-
-
 	function bp_list_newest_member_widget ($args) {
 		global $bp;
 
@@ -53,8 +49,5 @@ if ( !function_exists( 'bp_core_install' ) ) {
 
 /*********************************END***************************************/
 
-
-
-/************** To register the widget *************/
 register_sidebar_widget('Recent Member','bp_list_newest_member_widget');
 ?>
