@@ -1,19 +1,25 @@
-=== Buddypress List 5 Newest Members widget ===
+=== Buddypress List Newest Members widget ===
 
 Contributor: @naijaping
 Tags: buddypress, newest members widget
-Requires at least: WordPress 2.9 BuddyPress 1.2
+Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8 
 License: GNU/GPL 2
 Stable tag: 1.0
 
 == READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
-This plugin is working as it should, but there is a room for improvement so any ideas or 
+This plugin is working as it should and there is a room for improvement so any ideas or 
 suggestions are welcome.
 
 == Description ==
 
-This is a very lightweight Buddypress plugin that list maximum 5 newest members in the widget area
+This is a very lightweight Buddypress plugin that list photos and names of the newest members in the widget area.
+
+With this plugin, you can set the total number of members to show in the widget.
+
+This plugin allow the use of the widget in many sidebars ( Multiple Use )
+
+
 
 == Installation ==
 
@@ -28,9 +34,9 @@ This is a very lightweight Buddypress plugin that list maximum 5 newest members 
 
 
 == Frequently Asked Questions ==
-Is this Plugin working?
+1. Is this Plugin working?
 
-Ans: Yes it is.......
+2  Answer: Yes it is.......
 
 == Notes ==
 
@@ -40,8 +46,6 @@ Any suggestions are welcome
 .Updated to allow the use of the widget in many sidebars ( Multiple Use )
 .You can now set the total numbers of the newest members to show 
 .Code clean up and small bug fix
-
-
 
 = 1.0 =
 * Initial Release Of The Plugin
