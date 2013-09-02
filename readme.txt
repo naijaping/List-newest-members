@@ -40,6 +40,8 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 
 Any suggestions are welcome.......
 
+== Changelog ==
+
 = 1.5 =
 .Updated to allow the use of the widget in many sidebars ( Multiple Use )
 .You can now set the total numbers of the newest members to show 
