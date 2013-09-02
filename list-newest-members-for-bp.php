@@ -8,13 +8,6 @@ if ( !function_exists( 'bp_core_install' ) ) {
 		return;
 }
 /*******************************************************************/
-
-
-/**
- * bp_list_newest_members_register_widgets
- * register widget.
- */
-
 function bp_list_newest_members_register_widgets() {
 	add_action('widgets_init', create_function('', 'return register_widget("Bp_List_Newest_Members_Widget");') );
 }
