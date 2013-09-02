@@ -24,7 +24,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 
 2. Activate the plugin
 
-3. Go to your widget area and look for "Newest Member"
+3. Go to your widget area and look for "Newest Members"
 
 
 == Screenshots ==
