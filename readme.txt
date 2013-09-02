@@ -30,6 +30,8 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 == Screenshots ==
 1. Here's a screenshot of it in action
 
+/assets/screenshot-1.png
+
 
 == Frequently Asked Questions ==
 1. Is this Plugin working?
