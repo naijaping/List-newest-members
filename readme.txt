@@ -5,7 +5,7 @@ Tags: Buddypress, Members, Widget, Newest
 Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
-Stable tag: 1.5
+Stable tag: 1.5.1
 
 
 == Description ==
@@ -30,7 +30,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 == Screenshots ==
 1. Here's a screenshot of it in action
 
-/assets/screenshot-1.png
+assets/screenshot-1.png
 
 
 == Frequently Asked Questions ==
@@ -43,11 +43,21 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 Any suggestions are welcome.......
 
 == Changelog ==
+= 1.5.1 =
+
+Removed unecessary loader
+
+Add Screenshot
+
+
 
 = 1.5 =
-.Updated to allow the use of the widget in many sidebars ( Multiple Use )
-.You can now set the total numbers of the newest members to show 
-.Code clean up and small bug fix
+
+1.Updated to allow the use of the widget in many sidebars ( Multiple Use )
+
+2.You can now set the total numbers of the newest members to show 
+
+3.Code clean up and small bug fix
 
 = 1.0 =
 * Initial Release Of The Plugin
