@@ -1,7 +1,7 @@
-=== Buddypress List Newest Members widget ===
+=== BP List Newest Members widget ===
 
 Contributor: @naijaping
-Tags: buddypress, newest members widget
+Tags: Buddypress, newest members widget
 Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
@@ -27,7 +27,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 
 2. Activate the plugin
 
-3. Go to your widget area and look for "Recent Member"
+3. Go to your widget area and look for "Newest Member"
 
 
 == Screenshots ==
