@@ -59,7 +59,7 @@ function widget($args, $instance) {
          <div class="item-avatar">
          <a href="<?php bp_member_permalink() ?>"><?php bp_member_avatar('type=full&width=40&height=40') ?></a></div>
          <div class="item">
-         <div class="item-title"style="font-weight:bold">
+         <div class="item-title">
 	 <a href="<?php bp_member_permalink() ?>"><?php bp_member_name() ?></a>
          </div>
 	<?php endwhile; ?>
