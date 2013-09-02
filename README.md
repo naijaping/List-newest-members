@@ -1,5 +1,5 @@
-List-newest-members
-===================
+BP List Newest Members widget
+==============================
 
 This is a very lightweight Buddypress plugin that list photos and names of the newest members in the widget area.
 
