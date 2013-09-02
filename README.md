@@ -1,13 +1,8 @@
 List-newest-members
 ===================
 
-List Buddypress Newest Members in the widget area and max 5
+This is a very lightweight Buddypress plugin that list photos and names of the newest members in the widget area.
 
+With this plugin, you can set the total number of members to show in the widget.
 
-
-== READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
-
-This plugin is working as it should, but there is a room for improvement so any ideas or 
-suggestions are welcome.
-
-
+This plugin allow the use of the widget in many sidebars ( Multiple Use )
