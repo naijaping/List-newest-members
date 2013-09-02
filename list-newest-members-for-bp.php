@@ -1,4 +1,19 @@
 <?php
+/*
+Plugin Name: BP List Newest members
+Plugin URI: http://cityflavourmagazine.com
+Description: Show photos and names of the newest members in the widget area 
+Version: 1.5
+Requires at least: WordPress 3.0 / BuddyPress 1.3
+Tested up to: WordPress 3.6  / BuddyPress 1.8 
+License: GNU/GPL 2
+Author URI: http://cityflavourmagazine.com/
+Author:Prince Abiola Ogundipe
+*/
+
+
+
+
 /*************Make sure BuddyPress is loaded ********************************/
 if ( !function_exists( 'bp_core_install' ) ) {
 	require_once( ABSPATH . '/wp-admin/includes/plugin.php' );
@@ -8,6 +23,13 @@ if ( !function_exists( 'bp_core_install' ) ) {
 		return;
 }
 /*******************************************************************/
+
+
+/**
+ * bp_list_newest_members_register_widgets
+ * register widget.
+ */
+
 function bp_list_newest_members_register_widgets() {
 	add_action('widgets_init', create_function('', 'return register_widget("Bp_List_Newest_Members_Widget");') );
 }
