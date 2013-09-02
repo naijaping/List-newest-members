@@ -1,7 +1,7 @@
 === BP List Newest Members widget ===
 
 Contributor: @naijaping
-Tags: Buddypress, Members, Widget, Newest Members
+Tags: buddypress, members, widget, newest members
 Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
