@@ -5,7 +5,7 @@ Tags: Buddypress, Members, Widget, Newest
 Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
-Stable tag: 1.0
+Stable tag: 1.5
 
 == READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
 This plugin is working as it should and there is a room for improvement so any ideas or 
