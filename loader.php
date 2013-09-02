@@ -2,8 +2,8 @@
 /*
 Plugin Name: BP List Newest members
 Plugin URI: http://cityflavourmagazine.com
-Description: Show the list of  newest members in the widget area max 5
-Version: 1.0
+Description: Show photos and names of the newest members in the widget area
+Version: 1.5
 Requires at least: WordPress 3.0 / BuddyPress 1.5
 Tested up to: WordPress 3.6  / BuddyPress 1.8.1
 License: GNU/GPL 2
