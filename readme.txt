@@ -30,7 +30,6 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 == Screenshots ==
 1. Here's a screenshot of it in action
 
-http://plugins.svn.wordpress.org/bp-list-newest-members/assets/screenshot-1.png
 
 
 == Frequently Asked Questions ==
