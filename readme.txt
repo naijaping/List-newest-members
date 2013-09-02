@@ -30,7 +30,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 == Screenshots ==
 1. Here's a screenshot of it in action
 
-assets/screenshot-1.png
+http://plugins.svn.wordpress.org/bp-list-newest-members/assets/screenshot-1.png
 
 
 == Frequently Asked Questions ==
@@ -43,6 +43,7 @@ assets/screenshot-1.png
 Any suggestions are welcome.......
 
 == Changelog ==
+
 = 1.5.1 =
 
 Removed unecessary loader
