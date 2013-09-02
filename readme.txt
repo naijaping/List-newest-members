@@ -26,7 +26,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 
 3. Go to your widget area and look for "Newest Members"
 
-4. Drag it to your widget and you are done....
+4. Drag it to your widget and set any total number of members to show. you are done....
 
 
 == Screenshots ==
@@ -58,7 +58,7 @@ Any suggestions are welcome.......
 
 1.Updated to allow the use of the widget in many sidebars ( Multiple Use )
 
-2.You can now set the total numbers of the newest members to show 
+2.You can now set any total numbers of the newest members to show 
 
 3.Code clean up and small bug fix
 
