@@ -7,9 +7,6 @@ Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
 Stable tag: 1.5
 
-== READ THIS BEFORE YOU DOWNLOAD AND INSTALL ==
-This plugin is working as it should and there is a room for improvement so any ideas or 
-suggestions are welcome.
 
 == Description ==
 
@@ -41,7 +38,7 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 
 == Notes ==
 
-Any suggestions are welcome
+Any suggestions are welcome.......
 
 = 1.5 =
 .Updated to allow the use of the widget in many sidebars ( Multiple Use )
