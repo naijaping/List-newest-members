@@ -55,13 +55,13 @@ function widget($args, $instance) {
 <?php if ( bp_has_members( 'user_id=0&type=newest&max='. $instance['max_num'] . '&populate_extras=0' ) ) : ?>
 <ul id="members-list" class="item-list">
 	 <?php while ( bp_members() ) : bp_the_member(); ?>
-         <li style="padding: 5px 0 29px 0">
+         <li>
          <div class="item-avatar">
          <a href="<?php bp_member_permalink() ?>"><?php bp_member_avatar('type=full&width=40&height=40') ?></a></div>
          <div class="item">
          <div class="item-title">
 	 <a href="<?php bp_member_permalink() ?>"><?php bp_member_name() ?></a>
-         </div>
+         <div class="clear"></div></div>
 	<?php endwhile; ?>
          </div>
 		
