@@ -5,7 +5,7 @@ Tags: buddypress, members, widget, newest members
 Requires at least: WordPress 3.0 BuddyPress 1.5
 Tested up to: WordPress 3.6  BuddyPress 1.8.1
 License: GNU/GPL 2
-Stable tag: 1.5.1
+Stable tag: 1.5.4
 
 
 == Description ==
@@ -44,6 +44,10 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 == Notes ==
 
 Any suggestions are welcome.......
+
+
+== 1.5.4 ==
+You can now change the widget title to what ever you like
 
 == Changelog ==
 
