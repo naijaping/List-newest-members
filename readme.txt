@@ -46,10 +46,11 @@ This plugin allow the use of the widget in many sidebars ( Multiple Use )
 Any suggestions are welcome.......
 
 
-== 1.5.4 ==
+== Changelog ==
+
+= 1.5.4 =
 You can now change the widget title to what ever you like
 
-== Changelog ==
 
 = 1.5.1 =
 
